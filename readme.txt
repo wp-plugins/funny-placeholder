@@ -1,4 +1,4 @@
-=== Melanger ads ===
+=== Funny placeholder ===
 Contributors: melangercz
 Tags: jokes, adverisments, ads, funny, placeholder
 Requires at least: 3.0.1
