@@ -108,7 +108,7 @@ class funny_placeholder extends WP_Widget {
 			}
 		else
 			{
-			$link = "http://wordpress.org/plugins/";
+			$link = "http://wordpress.org/plugins/funny-placeholder/";
 			}
 		?>
 		<div class="widget funny_placeholder">
