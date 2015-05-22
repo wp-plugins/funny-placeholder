@@ -2,7 +2,7 @@
 Contributors: melangercz
 Tags: jokes, adverisments, ads, funny, placeholder
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,9 +33,16 @@ Please send suggestions and comments to: plugins@melanger.cz
 3. Widget preview
 
 == Changelog ==
+= 1.1 =
+* Added new advertisment (Czech only)
+* Updated WP version
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
+= 1.1 =
+* Added new advertisment (Czech only)
+
 = 1.0 =
 * Initial release.

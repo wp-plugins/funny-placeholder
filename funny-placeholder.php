@@ -3,7 +3,7 @@
  * Plugin Name: Funny placeholder
  * Plugin URI: http://melanger.cz/aplikace/wordpress-pluginy/vtipne-reklamy/
  * Description: If you do not have advertisements to show on your website, try some funny ads!
- * Version: 1.0
+ * Version: 1.1
  * Author: melangercz
  * Author URI: http://melanger.cz/
  * License: GPLv2 or later
